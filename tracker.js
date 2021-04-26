@@ -188,11 +188,11 @@ async function addRole() {
   const role = await prompt([
     {
       name: "title",
-      message: "name of the role?"
+      message: "Name of the role?"
     },
     {
       name: "salary",
-      message: "salary?"
+      message: "Salary?"
     },
     {
       type: "list",
