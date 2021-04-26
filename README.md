@@ -4,7 +4,7 @@
 This Node.js, Inquirer and MySQL application is functional through the command line, assisting the user to keep track of a company's employee directory.  
 
 ## Screenshot / Video of Functionality
-![Demo Screenshot](./images/preview.jpg)
+![Demo Screenshot](./preview.jpg)
 [Click here to view video of functionality!](https://drive.google.com/file/d/1NHP6LkTVuhgbFCaLa5g8UCzBjsFPfvac/view)
 
 ## Challenge Requirements
